@@ -1,7 +1,9 @@
 import sqlalchemy
 
-print("Labas")
+from dar_vienas import pasisveikinimas
 
+print("Labas")
+print(pasisveikinimas)
 print ("Viso gero")
 
-input()
+

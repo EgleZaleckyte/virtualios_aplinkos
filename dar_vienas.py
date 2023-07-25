@@ -1,0 +1,3 @@
+
+
+pasisveikinimas = "Lab dien"
